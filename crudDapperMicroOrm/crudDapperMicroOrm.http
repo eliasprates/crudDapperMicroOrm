@@ -1,0 +1,6 @@
+@crudDapperMicroOrm_HostAddress = http://localhost:5015
+
+GET {{crudDapperMicroOrm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
